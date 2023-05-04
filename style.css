@@ -65,10 +65,11 @@ nav ul li a:hover::after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
+    margin-left: -76px;
 
 }
 .header-text h1{
-    font-size: 60px;
+    font-size: 56px;
     margin-top: 20px;
 }
 .header-text h1 span{
@@ -347,7 +348,7 @@ nav .fa-solid{
         left: -28px;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 26px;
     }
     nav .fa-solid{
         display: block;
